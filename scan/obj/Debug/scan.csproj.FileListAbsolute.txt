@@ -1,0 +1,18 @@
+c:\users\ali\documents\visual studio 2012\Projects\scan\scan\bin\Debug\scan.exe.config
+c:\users\ali\documents\visual studio 2012\Projects\scan\scan\obj\Debug\scan.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2012\Projects\scan\scan\obj\Debug\scan.Form1.resources
+c:\users\ali\documents\visual studio 2012\Projects\scan\scan\obj\Debug\scan.Properties.Resources.resources
+c:\users\ali\documents\visual studio 2012\Projects\scan\scan\obj\Debug\scan.csproj.GenerateResource.Cache
+c:\users\ali\documents\visual studio 2012\Projects\scan\scan\bin\Debug\scan.exe
+c:\users\ali\documents\visual studio 2012\Projects\scan\scan\bin\Debug\scan.pdb
+c:\users\ali\documents\visual studio 2012\Projects\scan\scan\obj\Debug\scan.exe
+c:\users\ali\documents\visual studio 2012\Projects\scan\scan\obj\Debug\scan.pdb
+C:\Users\Ali\Desktop\myproject\scan\scan\bin\Debug\scan.exe.config
+C:\Users\Ali\Desktop\myproject\scan\scan\obj\Debug\scan.exe
+C:\Users\Ali\Desktop\myproject\scan\scan\obj\Debug\scan.pdb
+C:\Users\Ali\Desktop\myproject\scan\scan\bin\Debug\scan.exe
+C:\Users\Ali\Desktop\myproject\scan\scan\bin\Debug\scan.pdb
+C:\Users\Ali\Desktop\myproject\scan\scan\obj\Debug\scan.csprojResolveAssemblyReference.cache
+C:\Users\Ali\Desktop\myproject\scan\scan\obj\Debug\scan.Form1.resources
+C:\Users\Ali\Desktop\myproject\scan\scan\obj\Debug\scan.Properties.Resources.resources
+C:\Users\Ali\Desktop\myproject\scan\scan\obj\Debug\scan.csproj.GenerateResource.Cache
